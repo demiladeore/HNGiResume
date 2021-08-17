@@ -3,7 +3,7 @@
   /* background: #bbb; */
   margin: 0; /* shorthand for all margins = 0 */
   padding: 0; /* no padding */
-  font-size: 100%;
+  font-size: 80%;
   box-sizing: border-box;
 }
 body {
@@ -29,7 +29,7 @@ main {
   margin: 0 auto; /* no top/bottom margin, centered horizontally */
   background: #fff; /* white content background, header image */
   justify-content: space-between;
-  padding: 0px 50px 50px 50px;
+  padding: 0px 20px 50px 50px;
 }
 section.container {
   display: flex;
