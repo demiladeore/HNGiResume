@@ -3,7 +3,7 @@
   /* background: #bbb; */
   margin: 0; /* shorthand for all margins = 0 */
   padding: 0; /* no padding */
-  font-size: 80%;
+  font-size: 1rem;
   box-sizing: border-box;
 }
 body {
@@ -57,7 +57,7 @@ th {
 }
 .inf ul li {
   list-style-type: none;
-  font-size: 16px;
+  font-size: 1rem;
   font-family: 'Poppins', sans-serif;
 section.skill {
   display: flex;
